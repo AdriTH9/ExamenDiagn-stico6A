@@ -3,7 +3,6 @@ public class Principal {
         Aeroplano obj=new Aeroplano();
         Avioneta obj2=new Avioneta();
 
-        obj.Alas();
         obj2.km();
     }
 }
